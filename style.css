@@ -18,11 +18,11 @@
 
 .container > h1 {
     margin-top: 40px;
-    font-size: 36px;
+    font-size: 56px;
 }
 
 .list {
-    margin-top: 35px;
+    margin-top: 50px;
     width: 90%;
     display: flex;
     justify-content: center;
@@ -52,8 +52,7 @@
 }
 
 .card:hover {
-    width: 420px;
-    height: 315px;
+    scale: 1.08;
     background-color: #00000081;
     color: #ffffff;
 }
